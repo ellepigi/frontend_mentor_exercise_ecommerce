@@ -1,0 +1,11 @@
+nav li{
+    box-sizing: content-box;
+   display: flex;
+   align-items: center;
+   height: 100%;
+}
+
+nav li:hover{
+    border-bottom: 3px orange solid;
+    cursor: pointer;
+}
